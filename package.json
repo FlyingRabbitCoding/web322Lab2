@@ -1,0 +1,15 @@
+{
+  "name": "web322-lab2",
+  "version": "1.0.0",
+  "description": "lab2-github",
+  "license": "ISC",
+  "author": "Billie Wu",
+  "type": "commonjs",
+  "main": "lab2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "save": "^2.9.0"
+  }
+}
