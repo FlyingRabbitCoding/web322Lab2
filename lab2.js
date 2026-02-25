@@ -1,6 +1,5 @@
 const HTTP_PORT = process.env.PORT || 3000;
 const express = require("express");
-const exphbs = require('express-handlebars');
 const app = express();
 
 app.get('/',(req,res) => {
