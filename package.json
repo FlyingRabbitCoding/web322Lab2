@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "lab2.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node lab2.js"
   },
   "dependencies": {
     "save": "^2.9.0"
